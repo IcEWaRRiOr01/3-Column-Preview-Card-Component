@@ -49,18 +49,14 @@ I learned how to create mobile-first project with media queries
 
 - [CSS Tricks - Media Queries for standard devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/) - This helped me understand media queries for standard devices. I really liked this pattern and will use it going forward.
 - [CSS Tricks - A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/) - This is an amazing article which helped me understand how to use media queries too.
-- [ss]ttps://developer.mozilla.org/ru/docs/Web/CSS/Media_Queries/Using_media_queries) -
+- [MDN - Using media queries](https://developer.mozilla.org/ru/docs/Web/CSS/Media_Queries/Using_media_queries) - it helped me to understand media queries too.
+- [W3Schools - CSS media query](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) - and it helped me understand media queries too.
+- [Meyerweb - CSS Reset](https://meyerweb.com/eric/tools/css/reset/) - it helped to reset standard styles.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Thanks to Frontend Mentor for useful practice for beginner Front-End web developers.
