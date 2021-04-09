@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/mobile-first-site-using-bem-and-media-queries--jj2wgbv3)
 - Live Site URL: [Github Pages](https://icewarrior01.github.io/3-Column-Preview-Card-Component/)
 
 ## My process
